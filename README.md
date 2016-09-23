@@ -10,4 +10,21 @@ ___
 ###3. assembling soever you want in a 80*80 bitmap on screen, and making it rotate.
 ***
 ##`exercise-2`
-##`exercise-1`
+##`exercise-3`
+###The picture I want to show on the screen mostly is doge (=v=). Here, I use the following method assembling two doges.It's quiet difficule and time-consuming to print the characters one by one just to assemble the doges (orz),so to achieve my goal by coding is definitly a better way.I've shown 2 initial photos and the pictures I transferred down here:
+###The original photo(1):
+![doge1](https://github.com/LuxAsteria/test3/blob/master/14020352114830213.jpg)
+###The picture I've assembled:
+![doge1assemble](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-09-23%20下午4.02.57.png)
+###The original photo(2):
+![doge2](https://github.com/LuxAsteria/test3/blob/master/tupian.jpg)
+###The picture I've assembled:
+![doge2assemble](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-09-23%20下午4.09.01副本.png)
+
+
+##Here's the code:
+```
+to be continue
+```
+
+#PS:All Rights Reserved 
