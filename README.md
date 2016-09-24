@@ -10,7 +10,7 @@ ___
 ###3. assembling soever you want in a 80*80 bitmap on screen, and making it rotate.
 ***
 ##`exercise-2`
-###Scince I've printed my name in last ![homework](https://github.com/LuxAsteria/exercise-1), this time I want to mainly focus on how to make the picture move on the screen.
+###Scince I've printed my name in last [homework](https://github.com/LuxAsteria/exercise-1), this time I want to mainly focus on how to make the picture move on the screen.
 ###This is the picture of name I've printed:
 ![name](https://github.com/LuxAsteria/test3/blob/master/method1.png)
 
