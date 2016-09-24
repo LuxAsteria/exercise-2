@@ -36,7 +36,7 @@ ___
 ###after
 ![name3](https://github.com/LuxAsteria/test3/blob/master/tmpfn_i9nb2副本.bmp)
 
-###[For code please click here]
+###[For code please click here](https://github.com/LuxAsteria/exercise-2/blob/master/code/code1)
 
 ***
 ##`exercise-3`
@@ -51,14 +51,14 @@ ___
 ![doge2assemble](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-09-23%20下午4.09.01副本.png)
 
 
-###[For codes please click here]
+###[For codes please click here](https://github.com/LuxAsteria/exercise-2/blob/master/code/code2)
 
 ###The second step is to rotate my pciture.Here's the pictures rotated.
 ![rotatedoge](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-09-24%20上午8.10.26.png)
 
 ![rotatedoge2](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-09-24%20上午8.08.16.png)
 
-###[For codes please click here]
+###[For codes please click here](https://github.com/LuxAsteria/exercise-2/blob/master/code/code3)
 ***
 
 ##Conclusion
