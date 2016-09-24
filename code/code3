@@ -1,1 +1,4 @@
-c
+from PIL import Image
+img=Image.open(filename)
+output=img.rotate(angle)
+output.show()
