@@ -1,1 +1,6 @@
+from PIL import Image
+from PIL import ImageChops
+img=Image.open(filename)
+output=ImageChops.offset(image,dx,dy=None)
+output.show()
 
